@@ -2,7 +2,7 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
-int res(string A) {
+string res(string A) {
     stack<char>st;
     for(auto x:A){
         st.push(x);
