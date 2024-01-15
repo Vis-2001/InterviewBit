@@ -23,7 +23,7 @@ vector<int>res(vector<vector<int>>A){
             ans.push_back(A[bottom][i]);
         }
         bottom--;
-        for(i=bottom; i >= top; i--){
+        for(int i=bottom; i >= top; i--){
             ans.push_back(A[i][left]);
         }
         left++;
