@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/unuiw/OneDrive/Desktop/interviewbit/InterviewBit/easy/Array",
+      "program": "c:/Users/unuiw/OneDrive/Desktop/interviewbit/InterviewBit/easy/Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
