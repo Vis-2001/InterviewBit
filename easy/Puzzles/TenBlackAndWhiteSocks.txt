@@ -1,0 +1,3 @@
+suppose u remove a white sock 1st 
+int second chance u remove black 
+then no matter wt u remove next u have a pair hence maximum is 3 
