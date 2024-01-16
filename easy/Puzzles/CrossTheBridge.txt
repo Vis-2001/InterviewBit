@@ -1,0 +1,7 @@
+round 1(1,2): time taken:2 mins
+round 2(1): time taken:1 mins
+round 3(5,10): time taken:10 mins
+round 4(2): time taken:2 mins
+round 5(1,2): time taken:2 mins
+
+total 17 mins
