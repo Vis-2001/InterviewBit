@@ -2,3 +2,7 @@ since we know for a fact that all the jars are mislabbled
 if we pick up a jar that is labelled pb 
 and if we pick a candy that is pb then we know that the jar is pb/grape
 and hence correct the other 2 labels. this is the minimum case hence 1.
+
+or just check the the jar with mixed jellies, and wtever jelly comes out u correct he label and use that to corret the repeats
+example:
+suppose grape jelly is found, then ik that pb is labbel wrong hence leaving only one jar to have pb and last one mixed.
