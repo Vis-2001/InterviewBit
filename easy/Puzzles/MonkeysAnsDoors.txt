@@ -1,0 +1,15 @@
+If the no of divisors of a particular number is even the door closes else the door is open
+for each number divisors comes in pairs
+example:
+6
+1*6=6
+2*3=6
+
+but in case of perfect squares one divisor repeats hences making it odd and keeping the door open
+example:
+4
+1*4=4
+2*2=4
+no of unique divisors are 3
+
+hence 1,4,9,16,25,36,49,64,81,100 total 10 doors are open
