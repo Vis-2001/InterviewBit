@@ -1,0 +1,4 @@
+since we know for a fact that all the jars are mislabbled
+if we pick up a jar that is labelled pb 
+and if we pick a candy that is pb then we know that the jar is pb/grape
+and hence correct the other 2 labels. this is the minimum case hence 1.
