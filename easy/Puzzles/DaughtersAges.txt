@@ -1,0 +1,2 @@
+The question is incomplete they havent specified the number of building which they have taken into consideration for soln.
+using this and the info that there is only one oldest daughter/son there is only one answer 338
