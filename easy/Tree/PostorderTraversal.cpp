@@ -14,7 +14,7 @@ struct TreeNode{
      postorder(ans,A->right);
      ans.push_back(A->val);
  }
-vector<int> Solution::postorderTraversal(TreeNode* A) {
+vector<int> res(TreeNode* A) {
     vector<int>ans;
     postorder(ans,A);
     return ans;
