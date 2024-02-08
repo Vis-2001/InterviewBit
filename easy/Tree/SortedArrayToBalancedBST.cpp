@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 struct TreeNode{
     int val;
@@ -15,7 +16,7 @@ TreeNode* rec(const vector<int>A,int s,int e){
     ans->right=rec(A,m+1,e);
     return ans;
 }
-TreeNode* Solution::sortedArrayToBST(const vector<int> &A) {
+TreeNode* res(const vector<int> &A) {
     int s=A.size()-1;
     return rec(A,0,s);
 }
